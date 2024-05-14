@@ -13,7 +13,8 @@ function App() {
       <body>
 
         <div>
-      <h1>teste</h1>
+          <h1>teste</h1>
+          <h2>apenas</h2>
         </div>
 
       </body>
